@@ -8,7 +8,7 @@ image:
   repository: tungts4/demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.27"
+ tag:"prod-0.36"
 
 imagePullSecrets: []
 nameOverride: ""
